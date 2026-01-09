@@ -49,7 +49,7 @@ The dashboard helps to understand:
 ---
 
 ## 📸 Dashboard Preview
-https://github.com/thamaraiselvan1233/Amazon-Sales-Dashboard-PowerBI/edit/main/README.md
+https://github.com/thamaraiselvan1233/Amazon-Sales-Dashboard-PowerBI/blob/main/DashboardIMG.png
 
 ---
 
